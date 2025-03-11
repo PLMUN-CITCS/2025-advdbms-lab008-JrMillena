@@ -1,4 +1,5 @@
 -- Insert into Books
+USE `BookstoreDB`;
 INSERT INTO `Books` (`ISBN`, `Title`, `Price`) VALUES
 ('9781234567890', 'The Hitchhiker''s Guide to the Galaxy', 7.99),
 ('9780321765723', 'The Lord of the Rings', 12.99),
